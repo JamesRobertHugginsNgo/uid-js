@@ -1,0 +1,22 @@
+{
+  "name": "uid",
+  "version": "1.0.0",
+  "description": "A simple id generator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesRobertHugginsNgo/uid-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesRobertHugginsNgo/uid-js/issues"
+  },
+  "homepage": "https://github.com/JamesRobertHugginsNgo/uid-js#readme",
+  "devDependencies": {
+    "eslint": "^8.3.0"
+  }
+}
